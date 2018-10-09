@@ -1,3 +1,6 @@
+require 'active_support'
+require 'active_support/core_ext'
+
 require 'layer/version'
 require 'layer/exceptions'
 require 'layer/client'
